@@ -1,0 +1,4 @@
+*.mp3
+*.svg
+**/mipmap-*/
+**/tinygarden/*.png
